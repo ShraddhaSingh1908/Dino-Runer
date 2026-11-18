@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dino Escape</string>
+    <string name="game_subtitle">THE LOST JUNGLE</string>
+    <string name="play_action">PLAY</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="settings_title">SETTINGS</string>
+    <string name="resume_action">RESUME</string>
+    <string name="restart_action">RESTART</string>
+    <string name="main_menu_action">MAIN MENU</string>
+    <string name="paused_title">PAUSED</string>
+    <string name="game_over_title">GAME OVER</string>
+    <string name="new_best_badge">NEW BEST!</string>
+    <string name="best_score_label">BEST SCORE</string>
+    <string name="total_coins_label">TOTAL COINS</string>
+    <string name="score_label">SCORE</string>
+    <string name="distance_label">DISTANCE</string>
+    <string name="coins_label">COINS</string>
+    <string name="speed_label">SPEED</string>
+    <string name="sound_effects_label">Sound &amp; Ambience</string>
+    <string name="atmosphere_label">Jungle Atmosphere</string>
+    <string name="atmosphere_daylight">Sunlit Jungle</string>
+    <string name="atmosphere_sunset">Golden Sunset</string>
+    <string name="touch_controls_label">On-Screen Touch Pad</string>
+    <string name="back_action">BACK</string>
+    <string name="run_banner">RUN!</string>
+    <string name="trex_danger_warning">T-REX CLOSING IN!</string>
+    <string name="cd_pause">Pause game</string>
+    <string name="cd_sound_toggle">Toggle sound</string>
+    <string name="cd_move_left">Move left</string>
+    <string name="cd_move_right">Move right</string>
+    <string name="cd_jump">Jump</string>
+    <string name="cd_slide">Slide</string>
+</resources>
